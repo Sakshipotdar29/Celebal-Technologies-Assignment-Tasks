@@ -1,0 +1,22 @@
+Enter the number of rows : 5
+
+The Lower Pyramid is : 
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+The Upper Pyramid is : 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+The Pyramid is : 
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
